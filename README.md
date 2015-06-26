@@ -4,7 +4,7 @@ This repository contains lecture notes (in Markdown, LaTeX and pdf format), figu
 generation, for a set of statistics lectures giving at the
 [1<sup>st</sup> GraWIToN School](https://events.ego-gw.it/indico/conferenceDisplay.py?ovw=True&confId=13).
 
-The python scripts a licensed under the MIT Licence (see the LICENCE file),
+The python scripts a licensed under the MIT License (see the LICENSE file),
 whilst the lecture notes (Markdown, LaTeX and pdf files) are licenced under the Creative Commons Attribution-ShareAlike 4.0 International License, which can be viewed [here](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The lecture notes are written using the Markdown markup language and converted to beamer files
