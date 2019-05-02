@@ -81,7 +81,7 @@ recommend are:
 
 * Bernoulli (1713) wondered how the mechanics of deductive logic applied to games of chance
 could be applied to inductive logic problems
-* Bayes (1763 - postumous) provided an answer (Bayes' formula) to Bernoulli's questions
+* Bayes (1763 - posthumous) provided an answer (Bayes' formula) to Bernoulli's questions
 * Laplace (1812) independently derived Bayes' theorem in the more common form we know today 
 
 Probabilities represent a _plausibility_ or _degree-of-belief_ of a proposition given the evidence at hand.
@@ -189,7 +189,7 @@ assumption that the first inference is true._"
     * $P(X) = 0~\rightarrow$  we are _certain_ that $X$ is false
 2. Belief in a proposition and its negation are related
     * $P(\text{not } A) = f(P(A))$
-3. Belied in a pair of propositions $x,y$ ($x$ _and_ $y$) is related to the belief in the 
+3. Belief in a pair of propositions $x,y$ ($x$ _and_ $y$) is related to the belief in the 
 conditional proposition $x|y$ (``$x$ given $y$ is true'')
     * $P(x,y) = f(P(x|y), P(y))$
 
@@ -218,7 +218,7 @@ P(x_1<X<x_2|I) = \int_{x_1}^{x_2} p(x|I) {\rm d}x.
 The rules for probabilities of propositions are inherited from classical logic and Boolean algebra:
 
 * _Law of Excluded Middle_ $P(A\text{ or not}(A)) = 1$
-* _Law of Non-contradition_ $P(A\text{ and not}(A)) = 0$
+* _Law of Non-contradiction_ $P(A\text{ and not}(A)) = 0$
     * i.e. $P(A) + P(\text{not }A) = 1$ (the **sum rule**)
 * _Association_
     * $P(A,[B,C]) = P([A,B],C)$
