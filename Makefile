@@ -41,4 +41,4 @@ part04: stats_part04.md
 pdf: part01 part02 part03 part04
 
 clean:
-	rm -f *.out *.aux *.log *.toc *.snm *.nav *.bbl *.backup
+	rm -f *.out *.aux *.log *.toc *.snm *.nav *.bbl *.blg *.backup

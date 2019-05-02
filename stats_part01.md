@@ -84,7 +84,7 @@ could be applied to inductive logic problems
 * Bayes (1763 - postumous) provided an answer (Bayes' formula) to Bernoulli's questions
 * Laplace (1812) independently derived Bayes' theorem in the more common form we know today 
 
-Probabilities represent a _plausibility_ or _degree-of-beilef_ of a proposition given the evidence at hand.
+Probabilities represent a _plausibility_ or _degree-of-belief_ of a proposition given the evidence at hand.
 
 
 
