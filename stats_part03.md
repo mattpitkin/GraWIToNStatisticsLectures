@@ -171,7 +171,7 @@ less sensitive to our choice of prior (i.e. the likelihood starts to dominate)
 data
 * If we want to express our belief as a **single number** we can adopt e.g. the mean, median or mode
 * We can use the **variance** of the posterior to assign and _error_ for $H$
-* It is very straighforward to define _Bayesian confidence intervals_ (more correctly termed
+* It is very straightforward to define _Bayesian confidence intervals_ (more correctly termed
 **credible intervals**)
 
 
@@ -247,7 +247,7 @@ and get the marginal posteriors through numerical integration, e.g.
 \\[
 p(m_{i_m}|d,I) \propto \sum_{i_c}^{n_c} \exp{\left(\ell(m_{i_m},c_{i_c}) - \text{max}\ell(m,c)\right)} \Delta c
 \\]
-where $\Delta c$ are the grid step sizes in $c$ (or you could use the trapezium rule for more acurracy).
+where $\Delta c$ are the grid step sizes in $c$ (or you could use the trapezium rule for more accuracy).
 
 [^fnlogspace]: We generally work in natural logarithm space due to numerical precision issues.
 
@@ -497,7 +497,7 @@ $p(X_i|I)$ can be solved for in $\frac{{\rm d}S}{{\rm d}X} = 0$, using e.g. _Lag
 <!--\end{column}
 \end{columns}-->
 
-The MaxEnt approach can be justified using a varirty of approaches, e.g.
+The MaxEnt approach can be justified using a variety of approaches, e.g.
 
 * Independence arguments (see e.g. [_the kangeroo problem_](http://cmm.cit.nih.gov/maxent/kangaroo.html))
 
